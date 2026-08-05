@@ -261,7 +261,7 @@ section {
   }
 }
 .button:hover .outline {
-  opacity: 1;
+  opacity: 0;
 }
 .button:hover .outline::before {
   animation-play-state: running;
